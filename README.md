@@ -1,10 +1,15 @@
 # Hand
+
 A custom Stronghold Crusader AI Lord .
+
 Primärfarbe: 	Schwarz
+
 Sekundärfarbe:	Lila
 
 1v1 Maps:
+
 Pick:		  Map:			           	Position:
+
 1	-	Dusty River		              -	Rechts	
 
 2	-	RT-1v1-Guilty Modder	      -	Links
@@ -33,7 +38,12 @@ Pick:		  Map:			           	Position:
 
 
 FFA Maps:
+
 Pick:		Map:				            Position:
+
 1	-	Desert Throne			          -Any
+
 2	-	Mayhem			               	-Any
+
 3	-	Green Haven retraced	    	-Any	
+
