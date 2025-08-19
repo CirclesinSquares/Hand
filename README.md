@@ -22,19 +22,25 @@ Pick:		  Map:			           	Position:
 
 6	-	Choke Point 	             	-	Links
 
-7	-	Rumble		                	-	Rechts
+7 - Ancient Terraces            - Links
 
 8	-	RT-1v1-Klagetal		          -	Rechts
 
-9	-	Beater's Dream 		          -	Links
+9	-	Beaten Heart 		            -	Links
 
-10	-	Trommelhügel		          -	Rechts
+10	-	Rumble		               	-	Rechts
 
-11	-	RT-1v1-Berg Alawia      	-	Links
+11	-	Trommelhügel		          -	Rechts
 
-12	-	Oasis Power		            -	Links
+12	-	RT-1v1-Berg Alawia      	-	Links
 
-13	-	Lioness Prey		          -	Rechts
+13	-	Oasis Power		            -	Links
+
+14	-	Lioness Prey		          -	Rechts
+
+15  - Watcher's Eye             - Links
+
+16  - Fissure                   - Links
 
 
 FFA Maps:
@@ -46,4 +52,25 @@ Pick:		Map:				            Position:
 2	-	Mayhem			               	-Any
 
 3	-	Green Haven retraced	    	-Any	
+
+
+2v2 Maps:
+
+Pick:		Map:				            Position:
+
+1 - RT Two Mountains            -unten links
+
+1	-	Lost Paradise			          -oben links
+
+2	-	Rupture			               	-unten links
+
+3	-	Throne of lies	           	-unten links
+
+4 - Conq 2v2 Deadly Ascent      -unten links
+
+5 - RT Green Trench             -unten rechts
+
+6	-	Hardgrain			              -oben links
+
+7 - RT Mesopotamien             -oben rechts
 
