@@ -62,15 +62,17 @@ Pick:		Map:				            Position:
 
 1 - RT Two Mountains            -unten links
 
-1	-	Lost Paradise			          -oben links
+2 - Fading Riches               -unten rechts
 
-2	-	Rupture			               	-unten links
+3	-	Lost Paradise			          -oben links
 
-3	-	Throne of lies	           	-unten links
+4	-	Rupture			               	-unten links
 
-4 - RT Green Trench             -unten rechts
+5	-	Throne of lies	           	-unten links
 
-5	-	Hardgrain			              -oben links
+6 - RT Green Trench             -unten rechts
 
-6 - RT Mesopotamien             -oben rechts
+7	-	Hardgrain			              -oben links
+
+8 - RT Mesopotamien             -oben rechts
 
