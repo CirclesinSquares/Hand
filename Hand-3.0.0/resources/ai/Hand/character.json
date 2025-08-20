@@ -106,7 +106,7 @@
     "SortieUnitRangedMin": 35,
     "SortieUnitRanged": "Tunneler",
     "SortieUnitMeleeMin": 5,
-    "SortieUnitMelee": "Tunneler",
+    "SortieUnitMelee": "Assassin",
     "DefDiggingUnitMax": 5,
     "DefDiggingUnit": "Slave",
     "RecruitInterval": 0,
@@ -155,9 +155,9 @@
     "Unknown132": 5,
     "SiegeEngine1": "FireBallista",
     "SiegeEngine2": "FireBallista",
-    "SiegeEngine3": "FireBallista",
+    "SiegeEngine3": "Catapult",
     "SiegeEngine4": "FireBallista",
-    "SiegeEngine5": "None",
+    "SiegeEngine5": "Catapult",
     "SiegeEngine6": "None",
     "SiegeEngine7": "None",
     "SiegeEngine8": "None",
@@ -178,7 +178,7 @@
     "AttUnitBackupMax": 0,
     "AttUnitBackupGroupsCount": 0,
     "AttUnitEngage": "Assassin",
-    "AttUnitEngageMax": 5,
+    "AttUnitEngageMax": 7,
     "AttUnitSiegeDef": "Tunneler",
     "AttUnitSiegeDefMax": 0,
     "AttUnitSiegeDefGroupsCount": 0,
@@ -203,4 +203,5 @@
 
 
   }
+
 }
