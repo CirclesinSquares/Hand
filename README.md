@@ -40,6 +40,8 @@ Pick:		  Map:			           	Position:
 
 15  - Watcher's Eye             - Links
 
+16 - Conq 2v2 Deadly Ascent      -links
+
 16  - Fissure                   - Links
 
 
@@ -66,11 +68,9 @@ Pick:		Map:				            Position:
 
 3	-	Throne of lies	           	-unten links
 
-4 - Conq 2v2 Deadly Ascent      -unten links
+4 - RT Green Trench             -unten rechts
 
-5 - RT Green Trench             -unten rechts
+5	-	Hardgrain			              -oben links
 
-6	-	Hardgrain			              -oben links
-
-7 - RT Mesopotamien             -oben rechts
+6 - RT Mesopotamien             -oben rechts
 
