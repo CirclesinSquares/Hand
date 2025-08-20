@@ -1,6 +1,6 @@
 name: Hand
 author: CirclesinSquares
-version: 3.0.0
+version: 3.0.4
 dependencies:
   aiSwapper: ^1.1.0
 type: plugin
