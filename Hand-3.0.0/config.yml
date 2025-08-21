@@ -5,7 +5,7 @@ config-sparse:
         menu:
           contents:
             suggested-value:
-              frederick:
+              abbot:
                 - name: Die Hand
                   root: ucp/plugins/Hand/resources/ai/Hand/
                   control:
@@ -21,7 +21,19 @@ config-sparse:
           contents:
             suggested-value: null
         ai:
-          frederick:
+          abbot:
+            binks:
+              contents:
+                suggested-value:
+                  name: Die Hand
+                  root: ucp/plugins/Hand/resources/ai/Hand/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Die Hand
+                  root: ucp/plugins/Hand/resources/ai/Hand/
+                  active: true
             lines:
               contents:
                 suggested-value:
@@ -58,18 +70,7 @@ config-sparse:
                   name: Die Hand
                   root: ucp/plugins/Hand/resources/ai/Hand/
                   active: true
-            binks:
-              contents:
-                suggested-value:
-                  name: Die Hand
-                  root: ucp/plugins/Hand/resources/ai/Hand/
-                  active: true
-            speech:
-              contents:
-                suggested-value:
-                  name: Die Hand
-                  root: ucp/plugins/Hand/resources/ai/Hand/
-                  active: true
+
   plugins: {}
 meta:
   version: 1.0.0
