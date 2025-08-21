@@ -106,7 +106,7 @@
     "SortieUnitRangedMin": 35,
     "SortieUnitRanged": "Tunneler",
     "SortieUnitMeleeMin": 5,
-    "SortieUnitMelee": "Assassin",
+    "SortieUnitMelee": "Tunneler",
     "DefDiggingUnitMax": 5,
     "DefDiggingUnit": "Slave",
     "RecruitInterval": 0,
@@ -205,3 +205,4 @@
   }
 
 }
+
