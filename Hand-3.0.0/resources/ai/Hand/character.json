@@ -42,18 +42,18 @@
     "Farm8": "AppleFarm",
     "PopulationPerFarm": 6,
     "PopulationPerWoodcutter": 1,
-    "PopulationPerQuarry": 20,
+    "PopulationPerQuarry": 15,
     "PopulationPerIronmine": 14,
     "PopulationPerPitchrig": 40,
     "MaxQuarries": 3,
     "MaxIronmines": 5,
     "MaxWoodcutters": 10,
     "MaxPitchrigs": 1,
-    "MaxFarms": 8,
+    "MaxFarms": 10,
     "BuildInterval": 1,
     "ResourceRebuildDelay": 10,
     "MaxFood": 30,
-    "MinimumApples": 3,
+    "MinimumApples": 5,
     "MinimumCheese": 0,
     "MinimumBread": 0,
     "MinimumWheat": 0,
@@ -69,7 +69,7 @@
     "MaxEquipment": 90,
     "MaxBeer": 0,
     "MaxResourceVariance": 0,
-    "RecruitGoldThreshold": 60,
+    "RecruitGoldThreshold": 65,
     "BlacksmithSetting": "Swords",
     "FletcherSetting": "Crossbows",
     "PoleturnerSetting": "Spears",
@@ -205,4 +205,3 @@
   }
 
 }
-
