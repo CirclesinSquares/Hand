@@ -20,7 +20,7 @@ Pick:		  Map:			           	Position:
 
 5	-	Brother's Strife 	          -	Rechts
 
-6	-	Choke Point 	             	-	Links
+6  - Fissure                   - Links
 
 7 - Ancient Terraces            - Links
 
