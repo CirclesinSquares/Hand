@@ -7,16 +7,22 @@
   },
   "startTroops": {
     "normal": {
-      "Crossbowman": 10,
-      "ArabSwordsman": 2
+      "Crossbowman": 3,
+	  "ArabArcher": 6,
+	  "Assassin": 2,
+      "ArabSwordsman": 1
     },
     "crusader": {
-      "Crossbowman": 10,
-      "ArabSwordsman": 2
+      "Crossbowman": 3,
+	  "ArabArcher": 6,
+	  "Assassin": 2,
+      "ArabSwordsman": 1
     },
     "deathmatch": {
-      "Crossbowman": 10,
-      "ArabSwordsman": 2
+      "Crossbowman": 3,
+	  "ArabArcher": 6,
+	  "Assassin": 2,
+      "ArabSwordsman": 1
     }
   },
   "aic": {
@@ -104,9 +110,9 @@
     "RecruitProbAttackWeak": 0,
     "RecruitProbAttackStrong": 70,
     "SortieUnitRangedMin": 35,
-    "SortieUnitRanged": "Tunneler",
+    "SortieUnitRanged": "Monk",
     "SortieUnitMeleeMin": 5,
-    "SortieUnitMelee": "Tunneler",
+    "SortieUnitMelee": "Monk",
     "DefDiggingUnitMax": 5,
     "DefDiggingUnit": "Slave",
     "RecruitInterval": 0,
@@ -156,11 +162,11 @@
     "SiegeEngine1": "FireBallista",
     "SiegeEngine2": "FireBallista",
     "SiegeEngine3": "Catapult",
-    "SiegeEngine4": "FireBallista",
-    "SiegeEngine5": "Catapult",
-    "SiegeEngine6": "None",
-    "SiegeEngine7": "None",
-    "SiegeEngine8": "None",
+    "SiegeEngine4": "Shield",
+    "SiegeEngine5": "Shield",
+    "SiegeEngine6": "Shield",
+    "SiegeEngine7": "Shield",
+    "SiegeEngine8": "Shield",
     "CowThrowInterval": 10000,
     "Unknown142": 0,
     "AttMaxEngineers": 0,
@@ -170,16 +176,16 @@
     "AttUnitVanguardMax": 70,
     "AttMaxAssassins": 95,
     "AttMaxLaddermen": 3,
-    "AttMaxTunnelers": 0,
+    "AttMaxTunnelers": 1,
     "AttUnitPatrol": "HorseArcher",
     "AttUnitPatrolMax": 225,
     "AttUnitPatrolGroupsCount": 1,
-    "AttUnitBackup": "Tunneler",
+    "AttUnitBackup": "Monk",
     "AttUnitBackupMax": 0,
     "AttUnitBackupGroupsCount": 0,
     "AttUnitEngage": "Assassin",
     "AttUnitEngageMax": 7,
-    "AttUnitSiegeDef": "Tunneler",
+    "AttUnitSiegeDef": "Crossbowman",
     "AttUnitSiegeDefMax": 0,
     "AttUnitSiegeDefGroupsCount": 0,
     "AttUnitMain1": "Assassin",
@@ -205,3 +211,4 @@
   }
 
 }
+
