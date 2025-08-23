@@ -28,11 +28,11 @@ Pick:		  Map:			           	Position:
 
 9	-	Beaten Heart 		            -	Links
 
-10	-	Rumble		               	-	Rechts
+10	-	RT-1v1-Berg Alawia      	-	Links
 
 11	-	Trommelhügel		          -	Rechts
 
-12	-	RT-1v1-Berg Alawia      	-	Links
+12	-	Rumble		               	-	Rechts
 
 13	-	Oasis Power		            -	Links
 
