@@ -7,22 +7,22 @@
   },
   "startTroops": {
     "normal": {
-      "Crossbowman": 3,
-	  "ArabArcher": 6,
+      "Crossbowman": 0,
+	  "ArabArcher": 8,
 	  "Assassin": 2,
-      "ArabSwordsman": 1
+      "ArabSwordsman": 2
     },
     "crusader": {
-      "Crossbowman": 3,
-	  "ArabArcher": 6,
+      "Crossbowman": 0,
+	  "ArabArcher": 8,
 	  "Assassin": 2,
-      "ArabSwordsman": 1
+      "ArabSwordsman": 2
     },
     "deathmatch": {
-      "Crossbowman": 3,
-	  "ArabArcher": 6,
+      "Crossbowman": 0,
+	  "ArabArcher": 8,
 	  "Assassin": 2,
-      "ArabSwordsman": 1
+      "ArabSwordsman": 2
     }
   },
   "aic": {
@@ -211,4 +211,5 @@
   }
 
 }
+
 
