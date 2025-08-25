@@ -169,7 +169,7 @@
     "SiegeEngine8": "Shield",
     "CowThrowInterval": 10000,
     "Unknown142": 0,
-    "AttMaxEngineers": 0,
+    "AttMaxEngineers": 11,
     "AttDiggingUnit": "Spearman",
     "AttDiggingUnitMax": 40,
     "AttUnitVanguard": "Spearman",
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
