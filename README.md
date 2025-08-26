@@ -42,7 +42,6 @@ Pick:		  Map:			           	Position:
 
 16 - Conq 2v2 Deadly Ascent      -links
 
-16  - Fissure                   - Links
 
 
 FFA Maps:
