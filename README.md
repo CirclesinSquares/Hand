@@ -12,13 +12,15 @@ Pick:		  Map:			           	Position:
 
 1	-	Dusty River		              -	Rechts	
 
-2	-	Guilty Modder        	      -	Links
+2	-	Silence              	      -	Rechts
 
 3	-	Conquest Dune              	-	Links
 
 4	-	Crimson Rivers 		          -	Links
 
 5  - Fissure                    - Links
+
+6 - Guilty Modder               - Links
 
 6 - Ancient Terraces            - Links
 
@@ -34,7 +36,7 @@ Pick:		  Map:			           	Position:
 
 12  - Watcher's Eye             - Links
 
-13 - Conquest Deadly Ascent     -links
+13 - Conquest Deadly Ascent     - Links
 
 
 
@@ -56,4 +58,18 @@ Pick:		Map:				            Position:
 1 - Two Mountains               -unten links
 
 2 - Fading Riches               -unten rechts
+
+3 - Rocky Crenels               -oben links
+
+4 - Hammer and Anvil            -unten links 
+
+5 - Heimatland - Der Graben     -oben rechts 
+
+6 - Green Trench                -unten links 
+
+7 - Heimatland - Der Archipel   -unten links
+
+8 - Mesopotamien                -unten rechts
+
+9 - Heimatland - Die Klamm      -unten rechts
 
