@@ -12,35 +12,29 @@ Pick:		  Map:			           	Position:
 
 1	-	Dusty River		              -	Rechts	
 
-2	-	RT-1v1-Guilty Modder	      -	Links
+2	-	Guilty Modder        	      -	Links
 
-3	-	Conq 1v1 Ai Dune           	-	Links
+3	-	Conquest Dune              	-	Links
 
 4	-	Crimson Rivers 		          -	Links
 
-5	-	Brother's Strife 	          -	Rechts
+5  - Fissure                    - Links
 
-6  - Fissure                   - Links
+6 - Ancient Terraces            - Links
 
-7 - Ancient Terraces            - Links
+7	-	Beaten Heart 		            -	Links
 
-8	-	RT-1v1-Klagetal		          -	Rechts
+8	-	Berg Alawia                	-	Links
 
-9	-	Beaten Heart 		            -	Links
+9	-	Oasis Power		              -	Links
 
-10	-	RT-1v1-Berg Alawia      	-	Links
+10	-	Rumble		               	-	Rechts
 
-11	-	Oasis Power		            -	Links
+11	-	Trommelhügel		          -	Rechts
 
-12	-	Rumble		               	-	Rechts
+12  - Watcher's Eye             - Links
 
-13	-	Trommelhügel		          -	Rechts
-
-14	-	Lioness Prey		          -	Rechts
-
-15  - Watcher's Eye             - Links
-
-16 - Conq 2v2 Deadly Ascent      -links
+13 - Conquest Deadly Ascent     -links
 
 
 
@@ -59,19 +53,7 @@ Pick:		Map:				            Position:
 
 Pick:		Map:				            Position:
 
-1 - RT Two Mountains            -unten links
+1 - Two Mountains               -unten links
 
 2 - Fading Riches               -unten rechts
-
-3	-	Lost Paradise			          -oben links
-
-4	-	Rupture			               	-unten links
-
-5	-	Throne of lies	           	-unten links
-
-6 - RT Green Trench             -unten rechts
-
-7	-	Hardgrain			              -oben links
-
-8 - RT Mesopotamien             -oben rechts
 
