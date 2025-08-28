@@ -82,3 +82,6 @@ Auch die Verteidigung seiner Burg, die nie für die Zwecke langfristiger Kämpfe
 Sollte sich die Belagerung hinziehen so wird auch das schnell zu einem Problem für die spärlichen Vorräte an Nahrung und Resourcen die die Hand in ihrer Burg aufbewahrt.
 Trotz alldem ist die Hand mit ihrem Positiven Angstfaktor von +5 in der Lage die eigene Gefolgschaft immer in ihrem Fanatismus für die Sache ihres Meisters zu begeistern und dementschprechend trotz eines mangels an schweren Truppen eine Streitmacht aufzustellen die schon so manchem unvorsichtigen Feldherren einen schnellen Tod bescherrt hat.
 
+Infotxt-Story:
+
+kommt noch 
