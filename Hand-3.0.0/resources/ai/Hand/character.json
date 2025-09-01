@@ -69,7 +69,7 @@
     "AIRequestDelay": 10,
     "MinimumGoodsRequiredAfterTrade": 5,
     "DoubleRationsFoodThreshold": 61,
-    "MaxWood": 200,
+    "MaxWood": 360,
     "MaxStone": 15,
     "MaxResourceOther": 0,
     "MaxEquipment": 90,
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
