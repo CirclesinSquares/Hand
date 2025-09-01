@@ -14,15 +14,15 @@
     },
     "crusader": {
       "Crossbowman": 0,
-	  "ArabArcher": 8,
-	  "Assassin": 2,
-      "ArabSwordsman": 2
+	  "ArabArcher": 12,
+	  "Assassin": 0,
+      "ArabSwordsman": 0
     },
     "deathmatch": {
       "Crossbowman": 0,
-	  "ArabArcher": 8,
+	  "ArabArcher": 10,
 	  "Assassin": 2,
-      "ArabSwordsman": 2
+      "ArabSwordsman": 0
     }
   },
   "aic": {
@@ -211,5 +211,6 @@
   }
 
 }
+
 
 
