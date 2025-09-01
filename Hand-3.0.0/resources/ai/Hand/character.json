@@ -166,7 +166,7 @@
     "SiegeEngine5": "FireBallista",
     "SiegeEngine6": "Shield",
     "SiegeEngine7": "Shield",
-    "SiegeEngine8": "Shield",
+    "SiegeEngine8": "None",
     "CowThrowInterval": 10000,
     "Unknown142": 0,
     "AttMaxEngineers": 0,
@@ -211,4 +211,5 @@
   }
 
 }
+
 
