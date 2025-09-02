@@ -159,10 +159,10 @@
     "AttAssaultDelay": 0,
     "AttUnitPatrolRecommandDelay": 5,
     "Unknown132": 5,
-    "SiegeEngine1": "FireBallista",
-    "SiegeEngine2": "Shield",
-    "SiegeEngine3": "Catapult",
-    "SiegeEngine4": "Shield",
+    "SiegeEngine1": "Shield",
+    "SiegeEngine2": "FireBallista",
+    "SiegeEngine3": "Shield",
+    "SiegeEngine4": "Catapult",
     "SiegeEngine5": "FireBallista",
     "SiegeEngine6": "Shield",
     "SiegeEngine7": "Shield",
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
