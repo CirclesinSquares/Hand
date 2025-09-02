@@ -51,15 +51,15 @@
     "PopulationPerQuarry": 15,
     "PopulationPerIronmine": 14,
     "PopulationPerPitchrig": 40,
-    "MaxQuarries": 4,
+    "MaxQuarries": 3,
     "MaxIronmines": 5,
     "MaxWoodcutters": 10,
-    "MaxPitchrigs": 1,
+    "MaxPitchrigs": 2,
     "MaxFarms": 10,
     "BuildInterval": 1,
     "ResourceRebuildDelay": 10,
     "MaxFood": 30,
-    "MinimumApples": 5,
+    "MinimumApples": 6,
     "MinimumCheese": 0,
     "MinimumBread": 0,
     "MinimumWheat": 0,
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
