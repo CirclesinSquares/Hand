@@ -160,11 +160,11 @@
     "AttUnitPatrolRecommandDelay": 5,
     "Unknown132": 5,
     "SiegeEngine1": "Shield",
-    "SiegeEngine2": "FireBallista",
-    "SiegeEngine3": "Shield",
-    "SiegeEngine4": "Catapult",
+    "SiegeEngine2": "Shield",
+    "SiegeEngine3": "FireBallista",
+    "SiegeEngine4": "Shield",
     "SiegeEngine5": "FireBallista",
-    "SiegeEngine6": "Shield",
+    "SiegeEngine6": "Catapult",
     "SiegeEngine7": "Shield",
     "SiegeEngine8": "None",
     "CowThrowInterval": 10000,
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
