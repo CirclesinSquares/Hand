@@ -185,8 +185,8 @@
     "AttUnitBackupGroupsCount": 0,
     "AttUnitEngage": "Assassin",
     "AttUnitEngageMax": 7,
-    "AttUnitSiegeDef": "Crossbowman",
-    "AttUnitSiegeDefMax": 0,
+    "AttUnitSiegeDef": "ArabArcher",
+    "AttUnitSiegeDefMax": 10,
     "AttUnitSiegeDefGroupsCount": 0,
     "AttUnitMain1": "Assassin",
     "AttUnitMain2": "Assassin",
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
