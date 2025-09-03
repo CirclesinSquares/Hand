@@ -32,9 +32,9 @@ Pick:		  Map:			           	Position:
 
 10	-	Rumble		               	-	Rechts
 
-11	-	Trommelhügel		          -	Rechts
+11	- Watcher's Eye             - Links
 
-12  - Watcher's Eye             - Links
+12  -	Trommelhügel		          -	Rechts
 
 13 - Conquest Deadly Ascent     - Links
 
