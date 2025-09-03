@@ -18,7 +18,7 @@ Pick:		  Map:			           	Position:
 
 4	-	Crimson Rivers 		          -	Links
 
-5  - Fissure                    - Links
+5  - Berg Alawia                - Links
 
 6 - Guilty Modder               - Links
 
@@ -26,7 +26,7 @@ Pick:		  Map:			           	Position:
 
 7	-	Beaten Heart 		            -	Links
 
-8	-	Berg Alawia                	-	Links
+8	-	Fissure                    	-	Links
 
 9	-	Oasis Power		              -	Links
 
