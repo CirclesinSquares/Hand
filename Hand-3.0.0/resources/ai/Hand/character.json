@@ -157,10 +157,10 @@
     "AttForceRallyPercentage": 30,
     "Unknown129": 5,
     "AttAssaultDelay": 0,
-    "AttUnitPatrolRecommandDelay": 5,
+    "AttUnitPatrolRecommandDelay": 2,
     "Unknown132": 5,
     "SiegeEngine1": "Shield",
-    "SiegeEngine2": "Shield",
+    "SiegeEngine2": "FireBallista",
     "SiegeEngine3": "FireBallista",
     "SiegeEngine4": "Shield",
     "SiegeEngine5": "FireBallista",
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
