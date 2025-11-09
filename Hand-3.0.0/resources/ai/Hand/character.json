@@ -162,11 +162,11 @@
     "SiegeEngine1": "Shield",
     "SiegeEngine2": "FireBallista",
     "SiegeEngine3": "FireBallista",
-    "SiegeEngine4": "Shield",
+    "SiegeEngine4": "Catapult",
     "SiegeEngine5": "FireBallista",
     "SiegeEngine6": "Catapult",
-    "SiegeEngine7": "Shield",
-    "SiegeEngine8": "None",
+    "SiegeEngine7": "Catapult",
+    "SiegeEngine8": "FireBallista",
     "CowThrowInterval": 10000,
     "Unknown142": 0,
     "AttMaxEngineers": 10,
@@ -205,12 +205,13 @@
     "AIOxTethers_DynamicMaxOxTethers": 5,
     "AIOxTethers_MinimumOxTethersPerQuarry": 4,
     "AIOxTethers_MaximumOxTethersPerQuarry": 5,
-    "AIOxTethers_ThresholdStoneLoad": 10
+    "AIOxTethers_ThresholdStoneLoad": 5
 
 
   }
 
 }
+
 
 
 
