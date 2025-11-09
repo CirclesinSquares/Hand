@@ -205,12 +205,13 @@
     "AIOxTethers_DynamicMaxOxTethers": 5,
     "AIOxTethers_MinimumOxTethersPerQuarry": 4,
     "AIOxTethers_MaximumOxTethersPerQuarry": 5,
-    "AIOxTethers_ThresholdStoneLoad": 5
+    "AIOxTethers_ThresholdStoneLoad": 6
 
 
   }
 
 }
+
 
 
 
