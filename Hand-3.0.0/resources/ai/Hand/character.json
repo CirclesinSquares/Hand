@@ -169,7 +169,7 @@
     "SiegeEngine8": "FireBallista",
     "CowThrowInterval": 10000,
     "Unknown142": 0,
-    "AttMaxEngineers": 10,
+    "AttMaxEngineers": 15,
     "AttDiggingUnit": "Spearman",
     "AttDiggingUnitMax": 40,
     "AttUnitVanguard": "Spearman",
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
