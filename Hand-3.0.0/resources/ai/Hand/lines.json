@@ -3,12 +3,12 @@
 
   "title_1"      : "Des Schicksals",
   "title_2"      : "Des Todes",
-  "title_3"      : "Der Finstrnis",
+  "title_3"      : "Der Finsternis",
   "title_4"      : "Des Schreckens",
   "title_5"      : "Der Verzweiflung",
-  "title_6"      : "Der Furcht",
+  "title_6"      : "Des Verfalls",
   "title_7"      : "Des Niedergangs",
-  "title_8"      : "Des Verfalls",
+  "title_8"      : "Dr Fnstrns",
 
   "description"  : "Über die Vergangenheit des wohl gefährlichsten Lakaien des Assassinen Ordens ist nicht viel bekannt. Manchen Ortes erzählt man sich das er ein ehemaliger Gefolgsmann der Schlange war. Doch nur eines über die Hand ist Warlich sicher, ihr wollt ihn und seine Meuchler nicht auf eurer falschen Seite haben.",
 
@@ -46,4 +46,5 @@
   "team_losing"  : "Unsere Feinde werden stärker, zu viel stärker.",
   "help_sent"    : "unused",
   "will_attack"  : "unused"
+
 }
