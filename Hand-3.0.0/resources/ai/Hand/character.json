@@ -59,12 +59,12 @@
     "BuildInterval": 1,
     "ResourceRebuildDelay": 10,
     "MaxFood": 30,
-    "MinimumApples": 5,
+    "MinimumApples": 3,
     "MinimumCheese": 0,
     "MinimumBread": 0,
     "MinimumWheat": 0,
     "MinimumHop": 0,
-    "TradeAmountFood": 3,
+    "TradeAmountFood": 1,
     "TradeAmountEquipment": 3,
     "AIRequestDelay": 10,
     "MinimumGoodsRequiredAfterTrade": 5,
@@ -85,7 +85,7 @@
     "SellResource04": "Crossbows",
     "SellResource05": "LeatherArmors",
     "SellResource06": "None",
-    "SellResource07": "Pitch",
+    "SellResource07": "None",
     "SellResource08": "Hop",
     "SellResource09": "Wheat",
     "SellResource10": "IronArmors",
@@ -176,7 +176,7 @@
     "AttUnitVanguardMax": 70,
     "AttMaxAssassins": 95,
     "AttMaxLaddermen": 3,
-    "AttMaxTunnelers": 1,
+    "AttMaxTunnelers": 0,
     "AttUnitPatrol": "HorseArcher",
     "AttUnitPatrolMax": 225,
     "AttUnitPatrolGroupsCount": 1,
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
