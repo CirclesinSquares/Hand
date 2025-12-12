@@ -71,7 +71,7 @@
     "DoubleRationsFoodThreshold": 61,
     "MaxWood": 360,
     "MaxStone": 15,
-    "MaxResourceOther": 0,
+    "MaxResourceOther": 5,
     "MaxEquipment": 90,
     "MaxBeer": 0,
     "MaxResourceVariance": 0,
@@ -211,6 +211,7 @@
   }
 
 }
+
 
 
 
