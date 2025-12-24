@@ -74,14 +74,31 @@ Pick:		Map:				            Position:
 9 - Heimatland - Die Klamm      -unten rechts
 
 
-Infotext-Vorstellung:
-
-Die Hand ist eine KI die für die Arabische Delegation eine regelrechte Absonderheit darstellt. Die Brotproduktion, Arabischen Schwertkämpfer und Feuerverteidigungen die für sein Milieu zu erwarten wären tauscht dieser Aggressionsfreundliche Mördermeister für schnell gewinnbringende aber im späteren Spielverlauf zunehmend abflachende Apfel-und Käseproduktion, schnelle und tödliche frühe Offensiven sowie eine Kombination aus Meuchlern, berittenen Bogenschützten und Speerträgern ein, die es ihm erlauben mit großer Präzision durch die Verteidung defensiv gut ausgebauter KIs zu stoßen und ihnen ein schnelles Ende zu bereiten.
-Dies alles jedoch kommt nicht ohne gravierende Schwächen, denn so gut ausgebaut seine Außenwirtchaft auch seien mag, so ist sie zu schützen eine Aufgabe der er vorallem gegen Aggressive Gegner selten nachkommen kann, denn Ausfalltruppen sucht man bei ihm stehts vergeblich.
-Auch die Verteidigung seiner Burg, die nie für die Zwecke langfristiger Kämpfe vorgesehen war, gestaltet sich für den selbsternannten "Meister der Wüste"  schwierig. So reichen die Provisorisch errichteten Ballisten und Wassergräben kaum aus um den Schützten auf seinen Türmen Sicherheit vor Feindlichen Belagerungsmaschinen und Panzerstaffeln zu bieten.
-Sollte sich die Belagerung hinziehen so wird auch das schnell zu einem Problem für die spärlichen Vorräte an Nahrung und Resourcen die die Hand in ihrer Burg aufbewahrt.
-Trotz alldem ist die Hand mit ihrem Positiven Angstfaktor von +5 in der Lage die eigene Gefolgschaft immer in ihrem Fanatismus für die Sache ihres Meisters zu begeistern und dementschprechend trotz eines mangels an schweren Truppen eine Streitmacht aufzustellen die schon so manchem unvorsichtigen Feldherren einen schnellen Tod bescherrt hat.
-
-Infotext-Story:
-
-Die Hand war geboren als jüngster von fünf Söhnen eines Kaufmannes in einer der Reicheren Provinzen des Königreichs, und entdeckte bereits früh in seinem Leben sein Talent dafür mit ausgeklügelten Komplotten den Tod seiner Feinde herbeizuführen, so sorgte er dafür das die Geschwister die über ihm in der Erbfolge standen Stück für Stück an Unfällen und Krankheit ein frühzeitiges Ende fanden, nach dem Tod seines Vaters übernahm er das Familiengeschäft und entdeckte schnell die Einfachheit die damit einherging jene die sich gegen ihn stellten ebenso verschwinden zu lassen. Eine Praxis die es ihm schon bald nicht nur erlaubte zum einflussreichsten nicht adligen seiner Provinz zu werden, sondern auch den ehemaligen Stadthalter, der stehts auf das zeitmäßige und vollständige zahlen seiner Steuern pochte, eines Nachts ganz zufällig in seiner Kutsche überfallen und enthaupten wurde und dafür zu sorgen das der noch junge Herzog Beauregard zu seinem Nachfolger ernannt werden würde. Mit diesem arbeitete die Hand daraufhin viele Jahre gut zusammen in dem die Schlange dafür sorgte das die Steuereintreiber die Geschäfte seines „Freundes“ mieden und die Hand dafür sorgte das ein jeder dem es missfiel wohin die Steuern, die eingetrieben wurden, flossen durch Reihen von unglücklichen Unfällen zum schweigen gebracht wurden. Und auch als der König von den steuerlichen Freiheiten erfuhr die sich die Schlange selbst gestattet hatte und ihn fortversetzte, war es die Hand die ihrem Verbündeten die finanziellen Mittel bereitstellte die er und die Anderen Herzoge benötigten um während ihrer Rebellion gegen den König ihre Heere zu finanzieren. Doch als es zunehmend klarer wurde, dass die Herzoge den Krieg nicht für sich entscheiden werden könnten, floh er mit dem Gold und den Untergebenen die ihm geblieben waren weit weg. Den es begab sich das eben dann der dritte Kreuzzug ausgerufen wurde und die Arabischen Fürsten die Dienste eines Untergebenen, der die Taktiken und schwächen der Abendländischen Heere kannte, gut gebrauchen konnten. So trat die Hand in die Dienste eben eines solcher Fürsten… des Nizars wie sie ihn nannten, unter dem sie ihre Fähigkeiten verfeinerte und auf die Ebene der Kriegsführung zu übertragen lernte. So wurde die Hand schnell zu einem der zuverlässigsten und gefürchtetsten Untergebenen des Nizars und dessen Ordens. Also nehmt euch in Acht ihr die ihr es Versucht die Wüsten des heiligen Landes für euch zu beanspruchen und seht was sich hinter eurem Rücken abspielt.
+Die Hand...
+war geboren als jüngster von fünfSöhnen eines Kaufmanns in einer derreicheren Provinzen des Königreichs.
+Er entdeckte bereits früh in seinemLeben sein Talent dafür, anhandausgeklügelter Komplotte den Tod seinerFeinde herbeizuführen. Und so sorgte er dafür,
+dass die Geschister, die über ihmin der Erbfolge standen, Stück für Stückabhanden kamen. Nach dem Tod seinesVaters hatte er
+freie Hand über das Familiengeschäft und entdeckte schnelldie Einfachheit, die damit herging,jene, die sich gegen ihn stellten,ebenso verschwinden zu lassen. 
+Eine Praxis, die es ihm schon bald nicht nurerlaubte, zum einflussreichsten nicht Adligen seiner Provinz zu werden,
+sondern auch am ehemaligen Stadthalter, der stets auf das zeitmäßige und vollständige Zahlen seiner Steuern pochte, eines Nachts in seiner Kutsche
+selbst Hand anzulegen, um dafür zu sorgen, dass der noch junge Herzog Bouregar zu seinem Nachfolger ernannt werden würde.
+Mit diesem arbeitete er daraufhin viele Jahre Hand in Hand, indem die Schlange dafür sorgte, dass die Steuereintreiber
+die Geschäfte seines Handlangers mieden und die Hand dafür sorgte, dass ein jeder, dem es missfiel, wohin die Steuern, die eingetrieben wurden,
+flossen, handfest gemacht und ihm ausgehändigt wurde. An der fehlenden Einkünfte erfuhr auch der König bald von den steuerlichen Freiheiten der Schlange und versetzte ihn fort,
+was die Hand allerdings nicht davon abhielt, ihm und den anderen herzogen, die finanziellen Mittel auszuhändigen, um während ihre Rebellion gegen den König ihre Heere zu finanzieren.
+Doch als zunehmend klar wurde, dass die Herzoge den Krieg nicht alleine handhaben konnten, floh er mit dem Gold und den Untergebenen, die ihm geblieben waren, weit weg.
+Denn wie es sich begab, wurde bald der dritte Kreuzzug ausgerufen, und die arabischen Fürsten suchten die Dienste eines Untergebenen, der die Taktiken und Schlächen der abendländischen Heere kannte.
+So trat die Hand in die Dienste des Nisars, unterdem sie ihr Handbuch an Fähigkeiten verfeinerte und auf die Ebene der Kriegsführung zu übertragen lernte.
+Schon bald wurde sie im Handumdrehen zu einem der zuverlässigsten und gefürchteten Handlangen des Nisars und dessen Ordens.
+Durch ihren Dienst unter dem arabischen Fürsten versteht sie nun auch das Kriegshandwerk exzellent. Sie überweist ihr Händchen für das effektive Töten durch den effizienten Einsatz leichter Truppen,
+die mit tödlicher Präzision mit ihren Klingen hantieren. Ihre Handlung im Krieg bleibt auch so deutlich. Sie ist kein Herführer, sondern der Anführer einer Bande Meuchelmörder. 
+Die nicht nur an der gegnerischen Bevölkerung handreiflich werden, sondern auch jederzeit nur eine Handbreit entfernt, von deren Regenten lauern. Auch ihr Wirtschaften unterstreicht die Rolle der Hand.
+Hochgehandeltes typisch arabisches Ladenbrot wird ersetzt durch einfache Fiezucht und Dattelplantagen, die jeden Bewohner zwar selbst ernähren, allerdings keine Basis für eine Metropole bilden.
+Durch ihre Raubzüge und Einkünfte aus eroberten Landsitzen muss die Hand jedoch nicht sparen. Auch ihre meisterhaften Tötungswerkzeuge bringen im Handel gutes Gold ein.
+Dementsprechend großzügig sorgt sie sich für das Wohl ihrer Landsleute und kompensiert sie für ihre lebensgefährlichen Dienste auf nächtlichen Missionen.
+So gut ihr Umgang mit der Münze und der Klinge jedoch ist, hat sie ihre Perspektive der Verteidigung nie gelernt zu schärfen. Ihr Unterschlupf ist nicht gegen längere Belagerungen gebaut
+und sollte ein Herrscher gegen sie persönlich ausrücken, statt gegen ihren Herrn, dann kann sie nur noch hoffen, dass ihre Geheimwege aus der Burg nicht von Männern in den eigenen Reihen verraten wurden.
+Also nehmt euch in Acht. ihr, die ihr es
+versucht, die Wüste des Heiligen Landes
+für euch zu beanspruchen und seht, was
+sich hinter eurem Rücken abspielt.
