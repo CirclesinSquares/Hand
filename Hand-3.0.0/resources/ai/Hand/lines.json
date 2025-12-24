@@ -22,8 +22,8 @@
   "plead"        : "Die Wüste holt uns alle... so ist der Lauf der Dinge.",
   "nervous_1"    : "Verschwindet besser, oder ihr werdet die Konsequenzen tragen...",
   "nervous_2"    : "Verschwindet besser, oder ihr werdet die Konsequenzen tragen...",
-  "victory_1"    : "Ein weiterer Narr der das Zeitliche segnet.",
-  "victory_2"    : "Ein weiterer Narr der das Zeitliche segnet.",
+  "victory_1"    : "Mögen die Schakale sich um eure Knochen reißen.",
+  "victory_2"    : "Ihr müsst sehen was hinter eurem Rücken geschieht.",
   "victory_3"    : "Ein weiterer Narr der das Zeitliche segnet.",
   "victory_4"    : "Ein weiterer Narr der das Zeitliche segnet.",
   "request"      : "Wir benötigen Unterstützung.",
@@ -32,19 +32,20 @@
   "congrats"     : "Ich gratuliere",
   "boast"        : "Unser Sieg rückt näher.",
   "help"         : "Wir benötigen Unterstützung.",
-  "extra"        : "unused",
+  "extra"        : "...",
   "kick_player"  : "unused",
   "add_player"   : "unused",
-  "siege"        : "unused",
+  "siege"        : "Mögen die Schakale sich um eure Knochen reißen.",
   "no_attack_1"  : "Abgelehnt.",
   "no_attack_2"  : "Vergesst es.",
   "no_help_1"    : "Aktion und Reaktion... Ihr müsst bgreifen, das auch ihr, diesen Prinzipien, unterliegt.",
   "no_help_2"    : "Aktion und Reaktion... Ihr müsst bgreifen, das auch ihr, diesen Prinzipien, unterliegt.",
-  "no_sent"      : "unused",
-  "sent"         : "unused",
+  "no_sent"      : "...",
+  "sent"         : "...",
   "team_winning" : "Unsere Feinde sind Kopflose Hühner... noch.",
   "team_losing"  : "Unsere Feinde werden stärker, zu viel stärker.",
-  "help_sent"    : "unused",
-  "will_attack"  : "unused"
+  "help_sent"    : "...",
+  "will_attack"  : "..."
 
 }
+
